@@ -1,241 +1,162 @@
 #EXTM3U 
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2016/03/all-sports-200x141.jpg" tvg-id="All Sports", All Sports
-
 #EXTBG:#000000
-
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1853591006.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="Record MG" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/recordtv.png", Record MG
-
 #EXTBG:#000000
-
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="Record MG2" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/recordtv.png", Record MG2
-
 #EXTBG:#000000
-
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8?hdnts=/*~hmac=0250d5a3584a3edee12694b2358a9d44d4f958aa16e7383c35d46994056d91f2
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://pbr-str.srvsite.com/arquivos/8376/cabecalho-8376-20201029110500.png" tvg-id="Manchete", Manchete
-
 #EXTBG:#000000
-
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1707694165.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="RedeTV!" group-title="01. TV" tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2016/02/Logo_Rede_TV_HD_01.jpg", RedeTV!
-
 #EXTBG:#000000
-
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w820678324.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="SBT" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/sbt.png", SBT Serra
-
 #EXTBG:#000000
 
 #EXTINF:-1 type="stream" tvg-id="SBT Interior" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/sbt.png", SBT Interior
-
 #EXTBG:#000000
-
 https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/playlist.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="(SBT) Difusora" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/sbt.png", SBT Difusora
-
 #EXTBG:#000000
-
 https://stream.amsolution.net.br:8443/live/6145334682c99/index.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="SBT Pioneira" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/sbt.png", SBT Pioneira
-
 #EXTBG:#000000
-
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="SBT Caruaru" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/sbt.png", SBT Caruaru
-
 #EXTBG:#000000
-
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/catve-200x141.jpg" tvg-id="CATVE", CATVE
-
 #EXTBG:#000000
-
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w236697482.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="Globo" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/redeglobo.png", Globo
-
 #EXTBG:#000000
-
 http://brtv.club:8880/EmersonSilvadaCostaMensal/yh7mdfqj/9093
 
 #EXTINF:-1 type="stream" tvg-id="Paraná Turismo" group-title="01. TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6788ade239f63ac5f8262c188729285c.webp", Paraná Turismo
-
 #EXTBG:#000000
-
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" tvg-id="Anime TV", Anime TV
-
 #EXTBG:#000000
-
 https://stmv1.srvif.com/animetv/animetv/chunklist_w2141231734.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="Galega" group-title="01. TV" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", Galega 
-
 #EXTBG:#000000
-
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b12a63543eabe272b1603497844fc92f.webp" tvg-id="Animestation", Animestation
-
 #EXTBG:#000000
-
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://demo.cdn.tv.br/logo/1604757343.0498395.png" tvg-id="ChromaTV", ChromaTV
-
 #EXTBG:#000000
-
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w1698619426.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://1.bp.blogspot.com/-CaM1qEb5i1U/YNIV3g_Z9FI/AAAAAAAAE6A/RBQL7CjLvXQxasncv-3EobOyH0g0bi3AQCLcBGAsYHQ/s0/CYNEMAX.png" tvg-id="Cynemax", Cynemax
-
 #EXTBG:#000000
-
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1498109360.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://demaistv.com.br/assets/images/image01.png" tvg-id="Demais TV", Demais TV
-
 #EXTBG:#000000
-
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5cfae87cb8a191172ff08ff1b13c3c05.jpg" tvg-id="Gospel Music", Gospel Music
-
 #EXTBG:#000000
-
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w287858804.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://3.bp.blogspot.com/-a5vv9JaAgJY/XXguJfYWkhI/AAAAAAAABxs/krPlomniL9ATKV0WYPGnBQ5FroGh5fF0gCLcBGAsYHQ/s320/Screenshot_2019-09-10-20-12-37.png" tvg-id="Gostei", Gostei
-
 #EXTBG:#000000
-
 https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/chunklist_w1021203759.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" tvg-id="Kronehit", Kronehit
-
 #EXTBG:#000000
-
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b828000.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/08/MASTERTV-200x141.png" tvg-id="MasterTv", MasterTv
-
 #EXTBG:#000000
-
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w638930513.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://4.bp.blogspot.com/-lyud-BxVgug/XYzll7fEzRI/AAAAAAAACAw/MH7QpVLNl_o4t8qOm8RNcPCY_VoodGsdACLcBGAsYHQ/s320/Screenshot_2019-09-26-13-19-56.png" tvg-id="Max", Max
-
 #EXTBG:#000000
-
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://1.bp.blogspot.com/-xPtzccrNJmE/YLzn23SySTI/AAAAAAAAE0E/Tu885-KVSmo1xcR0cjTSb0W1iTJRA7Z7ACLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY.png" tvg-id="NovaPlay", NovaPlay
-
 #EXTBG:#000000
-
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w820581756.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://1.bp.blogspot.com/-ELV1e2LJlYU/YCaxFOrmHvI/AAAAAAAAERE/sBOPPVuvQIw0dobCP2RoBxux_0f-iiRRgCLcBGAsYHQ/s0/TELA%2BVIVA%2BTV.png" tvg-id="Tela Viva", Tela Viva
-
 #EXTBG:#000000
-
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQ/s0/JETSONS%2BTV.png" tvg-id="The Jetsons", The Jetsons
-
 #EXTBG:#000000
-
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w2043439312.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2020/12/tv-carioca-200x141.png" tvg-id="Tv Carioca", Tv Carioca
-
 #EXTBG:#000000
-
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1898071028.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://i.imgur.com/MnIvaNC.png" tvg-id="TV das Artes", TV das Artes
-
 #EXTBG:#000000
-
 http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png" tvg-id="TV Mon", TV Mon
-
 #EXTBG:#000000
-
 https://hls.brasilstream.com.br/live/tvmon/tvmon/index.m3u8?token=8496343909744210000
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://www.tvpantanalms.com.br/wp-content/uploads/2019/09/logo_menor.png" tvg-id="Tv Pantanal MS", Tv Pantanal MS
-
 #EXTBG:#000000
-
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/chunklist_w235745956.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://yata-apix-576c2fb0-548d-4d59-a3c0-78860c2ba250.lss.locawebcorp.com.br/5d6504ea051441c9904abf24ad0a5c50.png" tvg-id="RT Channel (Soul Tv)", VRT Channel (Soul Tv)
-
 #EXTBG:#000000
-
 https://stream.vrtchannel.tv.br:1936/vrtchannel/vrtchannel/chunklist_w574934194.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" tvg-id="YEEAAH TV", YEEAAH TV
-
 #EXTBG:#000000
-
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94/200" tvg-id="AVF Family", AVF Family
-
 #EXTBG:#000000
-
 https://futuretoday-afv-family-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/darkmatter.png" tvg-id="Dark Matter Tv", Dark Matter TV Brazil
-
 #EXTBG:#000000
-
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/euronews.png" tvg-id="Euronews PT", Euronews PT
-
 #EXTBG:#000000
-
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/fueltv.png" tvg-id="Fuel TV", Fuel TV
-
 #EXTBG:#000000
-
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/hardknocks.png" tvg-id="Hard Knocks Fighting", Hard Knocks Fighting 
-
 #EXTBG:#000000
-
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/aa76a225-9467-440c-9ccb-d18a82043872.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://servidor10.xyz/images/mytime.png" tvg-id="MyTime", MyTime
-
 #EXTBG:#000000
-
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://img.r7.com/images/og-record-news-20022019110329562" tvg-id="Record News", Record News
-
 #EXTBG:#000000
-
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 type="stream" group-title="01. TV" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" tvg-id="Runtime", Runtime
