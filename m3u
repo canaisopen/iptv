@@ -2,11 +2,9 @@
 
 
 #EXTINF:-1 type="stream" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2016/03/all-sports-200x141.jpg" tvg-id="All Sports", All Sports
-#EXTBG:#000000
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1853591006.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="Record MG"  tvg-logo="https://servidor10.xyz/images/recordtv.png", Record MG
-#EXTBG:#000000
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="Record MG2"  tvg-logo="https://servidor10.xyz/images/recordtv.png", Record MG2
