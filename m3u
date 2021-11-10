@@ -177,6 +177,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293
 #EXTBG:#000000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 type="stream" tvg-id="Anime Ação"  tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", Anime Ação
+#EXTBG:#000000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 type="stream" tvg-logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" tvg-id="As Aventuras de Jackie Chan", As Aventuras de Jackie Chan
 #EXTBG:#000000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -248,6 +252,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0
 #EXTINF:-1 type="stream" tvg-id="Filmes Suspense"  tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", Filmes Suspense
 #EXTBG:#000000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 type="stream" tvg-id="FUEL TV"  tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", FUEL TV
+#EXTBG:#000000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 type="stream" tvg-id="Investigação"  tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", Investigação
 #EXTBG:#000000
@@ -321,6 +329,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9b09623
 #EXTBG:#000000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 type="stream" tvg-id="O Encantador de Cães"  tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", O Encantador de Cães
+#EXTBG:#000000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 type="stream" tvg-id="O reino infantil"  tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", O reino infantil
 #EXTBG:#000000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -340,6 +352,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e
 #EXTINF:-1 type="stream" tvg-id="Porta dos fundos"  tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", Porta dos Fundos
 #EXTBG:#000000
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 type="stream" tvg-id="Record News"  tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", Record News
+#EXTBG:#000000
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 type="stream" tvg-id="Retrô"  tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75", Retrô
 #EXTBG:#000000
