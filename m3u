@@ -46,6 +46,10 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w236697482.m
 #EXTBG:#000000
 http://brtv.club:8880/EmersonSilvadaCostaMensal/yh7mdfqj/9093
 
+#EXTINF:-1 type="stream" tvg-id="Globo SP"  tvg-logo="https://servidor10.xyz/images/redeglobo.png", Globo SP
+#EXTBG:#000000
+https://live.video.globo.com/h/0401636817238718924418316367308381591567755hyREi2Q_3J0ITOBGIjxrDw/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/.m3u8
+
 #EXTINF:-1 type="stream" tvg-id="Paraná Turismo"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6788ade239f63ac5f8262c188729285c.webp", Paraná Turismo
 #EXTBG:#000000
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
